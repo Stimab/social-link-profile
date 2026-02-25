@@ -12,6 +12,14 @@
   --secondary-900: hsl(0, 0%, 8%);
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 body {
   /* width: 100svw; */
   background-color: var(--secondary-900);
